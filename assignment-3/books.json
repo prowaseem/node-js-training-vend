@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "The Lord of the Rings",
+    "author": "J. R. R. Tolkien",
+    "published_on": 1954
+  },
+  {
+    "id": 2,
+    "name": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "published_on": 1943
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "published_on": 1997
+  },
+  {
+    "id": 4,
+    "name": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "published_on": 1967
+  }
+]
